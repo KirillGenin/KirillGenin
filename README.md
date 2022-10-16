@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 My name is Kirill Genin. I'm a Junior Frontend Developer.
 
 <!--
 **KirillGenin/KirillGenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
