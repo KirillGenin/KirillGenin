@@ -1,5 +1,6 @@
-### Hi 👋 My name is Kirill Genin. I'm a Junior Frontend Developer.
+### Hi 👋 My name is Kirill Genin. I'm a Frontend Developer.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGenin&layout=compact&hide_border=true)
 <!--
 **KirillGenin/KirillGenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
